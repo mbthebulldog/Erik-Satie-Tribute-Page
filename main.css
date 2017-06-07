@@ -1,0 +1,50 @@
+/* SASS for use later:
+$blue: rgba(30, 158, 226, 0.36);
+$green: darkseagreen;
+*/
+
+body {
+    padding: 2%;
+    font-size: 17px;
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: #416941;
+}
+.container-fluid {
+    background-color: #8fbc8f;
+    box-shadow: 7px 7px 7px #285503;
+    border: 1px outset #285503;
+}
+#title {
+    font-size: 60px;
+    color: #9a2039;
+    font-family: Georgia, "Times New Roman", serif;
+
+}
+#main {
+    float: right;
+}
+ul {
+    padding: 0;
+    list-style: none;
+}
+ul li {
+    padding-bottom: 15px;
+}
+#pic {
+    float: left;
+}
+.thumbnail {
+    background-color: rgba(30, 158, 226, 0.36);
+}
+a {
+    color: rgb(10, 121, 180);
+}
+.quote {
+    text-align: right;
+    margin-top: 20px;
+}
+#credit {
+    margin-top: 80px;
+    font-size: 10px;
+    color: darkcyan ;
+}
